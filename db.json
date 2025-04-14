@@ -2,7 +2,7 @@
   "notes": [
     {
       "id": 1,
-      "title": "Ghi chú quan trọng về dự án",
+      "title": "Ghi chú 1",
       "content": "Hôm nay chúng ta cần hoàn thành bản báo cáo cuối kỳ và gửi cho sếp trước 5 giờ chiều.",
       "priority": 3,
       "createdAt": "2025-04-14T08:00:00.000Z",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "title": "Ý tưởng cho ứng dụng mới",
+      "title": "Ghi chú 2",
       "content": "Chúng ta nên thêm tính năng đồng bộ hóa đám mây và chia sẻ ghi chú với người khác.",
       "priority": 2,
       "createdAt": "2025-04-13T19:30:00.000Z",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "title": "Danh sách mua sắm",
+      "title": "Ghi chú 3",
       "content": "- Sữa tươi\n- Trứng gà\n- Bánh mì\n- Rau xanh",
       "priority": 1,
       "createdAt": "2025-04-12T10:15:00.000Z",
