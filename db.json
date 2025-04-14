@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Ghi chú quan trọng về dự án",
+      "content": "Hôm nay chúng ta cần hoàn thành bản báo cáo cuối kỳ và gửi cho sếp trước 5 giờ chiều.",
+      "priority": 3,
+      "createdAt": "2025-04-14T08:00:00.000Z",
+      "modifiedAt": "2025-04-14T08:45:00.000Z",
+      "tags": "Dự án,Công việc,Deadline",
+      "color": "#ffdddd"
+    },
+    {
+      "id": 2,
+      "title": "Ý tưởng cho ứng dụng mới",
+      "content": "Chúng ta nên thêm tính năng đồng bộ hóa đám mây và chia sẻ ghi chú với người khác.",
+      "priority": 2,
+      "createdAt": "2025-04-13T19:30:00.000Z",
+      "modifiedAt": "2025-04-13T20:00:00.000Z",
+      "tags": "Ý tưởng,Tính năng mới,Ứng dụng",
+      "color": "#ccffcc"
+    },
+    {
+      "id": 3,
+      "title": "Danh sách mua sắm",
+      "content": "- Sữa tươi\n- Trứng gà\n- Bánh mì\n- Rau xanh",
+      "priority": 1,
+      "createdAt": "2025-04-12T10:15:00.000Z",
+      "modifiedAt": "2025-04-12T10:15:00.000Z",
+      "tags": "Mua sắm,Cá nhân",
+      "color": "#eeeeff"
+    }
+  ]
+}
