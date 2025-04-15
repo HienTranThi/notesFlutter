@@ -4,13 +4,13 @@
       "id": 1,
       "username": "user1",
       "email": "user1@example.com",
-      "password": "password123"
+      "password": "123456a@"
     },
     {
       "id": 2,
       "username": "user2",
       "email": "user2@example.com",
-      "password": "securePassword"
+      "password": "123456a@"
     }
   ]
   "notes": [
