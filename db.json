@@ -25,5 +25,6 @@
         'modifiedAt': DateTime.now().toIso8601String(),
         'tags': 'Tag5, Tag6',
         'color': 'red',
+    }
   ]
 }
